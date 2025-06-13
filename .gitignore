@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.env
+*.log
+*.db
+*.sqlite3
+.env.*
+.envrc
+.idea/
+.vscode/
+.DS_Store
+garantiyny_talon.pdf
+stock.csv
